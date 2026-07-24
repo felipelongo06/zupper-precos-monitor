@@ -1,13 +1,9 @@
-=== DEBUG COLETA ===
+=== DEBUG COLETA (Bright Data Web Unlocker) ===
 rota: SSA-CGH
-url_pedida: https://www.skyscanner.com.br/transporte/voos/ssa/cgh/260823/?adultsv2=1&cabinclass=economy&rtn=0
-url_final:  https://www.skyscanner.com.br/sttc/px/captcha-v2/index.html?url=L3RyYW5zcG9ydGUvdm9vcy9zc2EvY2doLzI2MDgyMy8/Y2FiaW5jbGFzcz1lY29ub215JnJ0bj0wJmFkdWx0c3YyPTE=&uuid=327e738d-876a-11f1-8963-839b599122d4&vid=
-titulo: Skyscanner
-tamanho_texto: 312 chars
+url: https://www.skyscanner.com.br/transporte/voos/ssa/cgh/260823/?adultsv2=1&cabinclass=economy&rtn=0
+zona: zupper_unlocker
+tamanho_html: 187 chars | tamanho_texto: 187 chars
 bloqueado (heuristica): True
 parse: mais_barato=None direto=None companhias=[] vendedores=[]
-=== PRIMEIROS 8000 CHARS DO TEXTO DA PAGINA ===
-Are you a person or a robot?
-Please don’t take this personally - some scripts and bots are remarkably lifelike these days!
-Still having problems accessing the page? Try checking you have JavaScript and cookies turned on and that your browser isn’t blocking them from loading.
-327e738d-876a-11f1-8963-839b599122d4
+=== PRIMEIROS 10000 CHARS DO TEXTO DA PAGINA ===
+Request Failed (bad_endpoint): Requested site is not available for immediate access mode in accordance with robots.txt. Ask your account manager to get full access for targeting this site
