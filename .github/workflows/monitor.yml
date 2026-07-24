@@ -25,11 +25,12 @@ jobs:
           python-version: "3.11"
 
       - name: Instalar dependências
-        run: |
-          pip install -r requirements.txt
-          python -m playwright install --with-deps chromium
+        run: pip install -r requirements.txt
 
       - name: Rodar coleta
+        env:
+          BRIGHTDATA_TOKEN: ${{ secrets.BRIGHTDATA_TOKEN }}
+          BRIGHTDATA_ZONE: ${{ secrets.BRIGHTDATA_ZONE }}
         run: python scraper.py
 
       - name: Commit do snapshot
