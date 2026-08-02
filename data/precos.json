@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-08-02T11:14:29.843864-03:00",
+ "atualizado_em": "2026-08-02T11:18:11.961940-03:00",
  "regra": "embarque sempre D+30; retencao 45d; coleta via Chrome local (slots 9h/15h/21h BRT com catch-up)",
  "coletas": [
   {
@@ -10376,6 +10376,241 @@
    },
    "zupper_vitrine": null,
    "url_busca": "https://www.skyscanner.com.br/transporte/voos/for/gru/260901/?adultsv2=1&cabinclass=economy&rtn=0",
+   "status": "ok",
+   "flag_auditoria": null,
+   "metodo": "chrome_local"
+  },
+  {
+   "coletado_em": "2026-08-02T11:18:11.961940-03:00",
+   "rota": "SSA-CGH",
+   "origem": "SSA",
+   "destino": "CGH",
+   "data_embarque": "2026-09-01",
+   "antecedencia_dias": 30,
+   "preco_mais_barato": 387,
+   "preco_direto": 387,
+   "por_companhia": {
+    "GOL": 387,
+    "LATAM": 413
+   },
+   "vendedores": {},
+   "zupper_vitrine": null,
+   "url_busca": "https://www.skyscanner.com.br/transporte/voos/ssa/cgh/260802/?adultsv2=1&cabinclass=economy&rtn=0",
+   "status": "ok",
+   "flag_auditoria": null,
+   "metodo": "chrome_local"
+  },
+  {
+   "coletado_em": "2026-08-02T11:18:11.961940-03:00",
+   "rota": "CGH-SSA",
+   "origem": "CGH",
+   "destino": "SSA",
+   "data_embarque": "2026-09-01",
+   "antecedencia_dias": 30,
+   "preco_mais_barato": 402,
+   "preco_direto": 402,
+   "por_companhia": {
+    "Azul": 571,
+    "GOL": 402,
+    "LATAM": 444
+   },
+   "vendedores": {
+    "GOL Linhas Aereas": 425,
+    "123milhas": 460,
+    "Azul": 757
+   },
+   "zupper_vitrine": null,
+   "url_busca": "https://www.skyscanner.com.br/transporte/voos/cgh/ssa/260802/?adultsv2=1&cabinclass=economy&rtn=0",
+   "status": "ok",
+   "flag_auditoria": null,
+   "metodo": "chrome_local"
+  },
+  {
+   "coletado_em": "2026-08-02T11:18:11.961940-03:00",
+   "rota": "GRU-SSA",
+   "origem": "GRU",
+   "destino": "SSA",
+   "data_embarque": "2026-09-01",
+   "antecedencia_dias": 30,
+   "preco_mais_barato": 338,
+   "preco_direto": 338,
+   "por_companhia": {
+    "Aerolineas": 4433,
+    "Avianca": 4294,
+    "Azul": 569,
+    "GOL": 338,
+    "LATAM": 370
+   },
+   "vendedores": {
+    "123milhas": 370,
+    "GOL Linhas Aereas": 383,
+    "Azul": 783
+   },
+   "zupper_vitrine": null,
+   "url_busca": "https://www.skyscanner.com.br/transporte/voos/gru/ssa/260802/?adultsv2=1&cabinclass=economy&rtn=0",
+   "status": "ok",
+   "flag_auditoria": null,
+   "metodo": "chrome_local"
+  },
+  {
+   "coletado_em": "2026-08-02T11:18:11.961940-03:00",
+   "rota": "SSA-GRU",
+   "origem": "SSA",
+   "destino": "GRU",
+   "data_embarque": "2026-09-01",
+   "antecedencia_dias": 30,
+   "preco_mais_barato": 355,
+   "preco_direto": 355,
+   "por_companhia": {
+    "GOL": 355,
+    "LATAM": 395
+   },
+   "vendedores": {},
+   "zupper_vitrine": null,
+   "url_busca": "https://www.skyscanner.com.br/transporte/voos/ssa/gru/260802/?adultsv2=1&cabinclass=economy&rtn=0",
+   "status": "ok",
+   "flag_auditoria": null,
+   "metodo": "chrome_local"
+  },
+  {
+   "coletado_em": "2026-08-02T11:18:11.961940-03:00",
+   "rota": "GIG-SSA",
+   "origem": "GIG",
+   "destino": "SSA",
+   "data_embarque": "2026-09-01",
+   "antecedencia_dias": 30,
+   "preco_mais_barato": 444,
+   "preco_direto": 444,
+   "por_companhia": {
+    "Aerolineas": 4256,
+    "Azul": 554,
+    "GOL": 444,
+    "LATAM": 545
+   },
+   "vendedores": {
+    "GOL Linhas Aereas": 736
+   },
+   "zupper_vitrine": null,
+   "url_busca": "https://www.skyscanner.com.br/transporte/voos/gig/ssa/260802/?adultsv2=1&cabinclass=economy&rtn=0",
+   "status": "ok",
+   "flag_auditoria": null,
+   "metodo": "chrome_local"
+  },
+  {
+   "coletado_em": "2026-08-02T11:18:11.961940-03:00",
+   "rota": "SSA-GIG",
+   "origem": "SSA",
+   "destino": "GIG",
+   "data_embarque": "2026-09-01",
+   "antecedencia_dias": 30,
+   "preco_mais_barato": 536,
+   "preco_direto": 536,
+   "por_companhia": {
+    "Aerolineas": 4618,
+    "Azul": 545,
+    "GOL": 536,
+    "LATAM": 559
+   },
+   "vendedores": {
+    "GOL Linhas Aereas": 617
+   },
+   "zupper_vitrine": null,
+   "url_busca": "https://www.skyscanner.com.br/transporte/voos/ssa/gig/260802/?adultsv2=1&cabinclass=economy&rtn=0",
+   "status": "ok",
+   "flag_auditoria": null,
+   "metodo": "chrome_local"
+  },
+  {
+   "coletado_em": "2026-08-02T11:18:11.961940-03:00",
+   "rota": "REC-CGH",
+   "origem": "REC",
+   "destino": "CGH",
+   "data_embarque": "2026-09-01",
+   "antecedencia_dias": 30,
+   "preco_mais_barato": 424,
+   "preco_direto": 684,
+   "por_companhia": {
+    "Azul": 666,
+    "GOL": 424,
+    "LATAM": 431
+   },
+   "vendedores": {
+    "123milhas": 424,
+    "GOL Linhas Aereas": 485,
+    "Azul": 794
+   },
+   "zupper_vitrine": null,
+   "url_busca": "https://www.skyscanner.com.br/transporte/voos/rec/cgh/260802/?adultsv2=1&cabinclass=economy&rtn=0",
+   "status": "ok",
+   "flag_auditoria": null,
+   "metodo": "chrome_local"
+  },
+  {
+   "coletado_em": "2026-08-02T11:18:11.961940-03:00",
+   "rota": "CGH-REC",
+   "origem": "CGH",
+   "destino": "REC",
+   "data_embarque": "2026-09-01",
+   "antecedencia_dias": 30,
+   "preco_mais_barato": 425,
+   "preco_direto": 636,
+   "por_companhia": {
+    "Azul": 664,
+    "GOL": 425,
+    "LATAM": 433
+   },
+   "vendedores": {},
+   "zupper_vitrine": null,
+   "url_busca": "https://www.skyscanner.com.br/transporte/voos/cgh/rec/260802/?adultsv2=1&cabinclass=economy&rtn=0",
+   "status": "ok",
+   "flag_auditoria": null,
+   "metodo": "chrome_local"
+  },
+  {
+   "coletado_em": "2026-08-02T11:18:11.961940-03:00",
+   "rota": "GRU-JDO",
+   "origem": "GRU",
+   "destino": "JDO",
+   "data_embarque": "2026-09-01",
+   "antecedencia_dias": 30,
+   "preco_mais_barato": 528,
+   "preco_direto": 604,
+   "por_companhia": {
+    "Azul": 528,
+    "GOL": 725,
+    "LATAM": 604
+   },
+   "vendedores": {
+    "GOL Linhas Aereas": 1362
+   },
+   "zupper_vitrine": null,
+   "url_busca": "https://www.skyscanner.com.br/transporte/voos/gru/jdo/260802/?adultsv2=1&cabinclass=economy&rtn=0",
+   "status": "ok",
+   "flag_auditoria": null,
+   "metodo": "chrome_local"
+  },
+  {
+   "coletado_em": "2026-08-02T11:18:11.961940-03:00",
+   "rota": "FOR-GRU",
+   "origem": "FOR",
+   "destino": "GRU",
+   "data_embarque": "2026-09-01",
+   "antecedencia_dias": 30,
+   "preco_mais_barato": 707,
+   "preco_direto": 710,
+   "por_companhia": {
+    "Aerolineas": 3403,
+    "Avianca": 5429,
+    "Azul": 707,
+    "GOL": 710,
+    "LATAM": 711
+   },
+   "vendedores": {
+    "123milhas": 711,
+    "GOL Linhas Aereas": 808
+   },
+   "zupper_vitrine": null,
+   "url_busca": "https://www.skyscanner.com.br/transporte/voos/for/gru/260802/?adultsv2=1&cabinclass=economy&rtn=0",
    "status": "ok",
    "flag_auditoria": null,
    "metodo": "chrome_local"
