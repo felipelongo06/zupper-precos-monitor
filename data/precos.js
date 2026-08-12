@@ -1,5 +1,5 @@
 window.__SKY_PRECOS={
- "atualizado_em": "2026-08-11T16:15:53.462376-03:00",
+ "atualizado_em": "2026-08-11T21:16:58.673287-03:00",
  "regra": "embarque sempre D+30; retencao 45d; coleta via Chrome local (slots 9h/15h/21h BRT com catch-up)",
  "coletas": [
   {
@@ -16988,6 +16988,211 @@ window.__SKY_PRECOS={
     "Azul": 862,
     "Aerolineas": 3552,
     "Avianca": 5653
+   },
+   "vendedores": {},
+   "zupper_vitrine": null,
+   "url_busca": "https://www.skyscanner.com.br/transporte/voos/for/gru/260910/?adultsv2=1&cabinclass=economy&rtn=0",
+   "status": "ok",
+   "flag_auditoria": null,
+   "metodo": "chrome_local"
+  },
+  {
+   "coletado_em": "2026-08-11T21:16:58.673287-03:00",
+   "rota": "SSA-CGH",
+   "origem": "SSA",
+   "destino": "CGH",
+   "data_embarque": "2026-09-10",
+   "antecedencia_dias": 30,
+   "preco_mais_barato": 782,
+   "preco_direto": 782,
+   "por_companhia": {
+    "GOL": 782,
+    "LATAM": 830
+   },
+   "vendedores": {},
+   "zupper_vitrine": null,
+   "url_busca": "https://www.skyscanner.com.br/transporte/voos/ssa/cgh/260910/?adultsv2=1&cabinclass=economy&rtn=0",
+   "status": "ok",
+   "flag_auditoria": null,
+   "metodo": "chrome_local"
+  },
+  {
+   "coletado_em": "2026-08-11T21:16:58.673287-03:00",
+   "rota": "CGH-SSA",
+   "origem": "CGH",
+   "destino": "SSA",
+   "data_embarque": "2026-09-10",
+   "antecedencia_dias": 30,
+   "preco_mais_barato": 791,
+   "preco_direto": 791,
+   "por_companhia": {
+    "GOL": 791,
+    "LATAM": 839
+   },
+   "vendedores": {},
+   "zupper_vitrine": null,
+   "url_busca": "https://www.skyscanner.com.br/transporte/voos/cgh/ssa/260910/?adultsv2=1&cabinclass=economy&rtn=0",
+   "status": "ok",
+   "flag_auditoria": null,
+   "metodo": "chrome_local"
+  },
+  {
+   "coletado_em": "2026-08-11T21:16:58.673287-03:00",
+   "rota": "GRU-SSA",
+   "origem": "GRU",
+   "destino": "SSA",
+   "data_embarque": "2026-09-10",
+   "antecedencia_dias": 30,
+   "preco_mais_barato": 613,
+   "preco_direto": 613,
+   "por_companhia": {
+    "Azul": 645,
+    "GOL": 613,
+    "LATAM": 784
+   },
+   "vendedores": {},
+   "zupper_vitrine": null,
+   "url_busca": "https://www.skyscanner.com.br/transporte/voos/gru/ssa/260910/?adultsv2=1&cabinclass=economy&rtn=0",
+   "status": "ok",
+   "flag_auditoria": null,
+   "metodo": "chrome_local"
+  },
+  {
+   "coletado_em": "2026-08-11T21:16:58.673287-03:00",
+   "rota": "SSA-GRU",
+   "origem": "SSA",
+   "destino": "GRU",
+   "data_embarque": "2026-09-10",
+   "antecedencia_dias": 30,
+   "preco_mais_barato": 630,
+   "preco_direto": 630,
+   "por_companhia": {
+    "GOL": 630,
+    "LATAM": 801
+   },
+   "vendedores": {},
+   "zupper_vitrine": null,
+   "url_busca": "https://www.skyscanner.com.br/transporte/voos/ssa/gru/260910/?adultsv2=1&cabinclass=economy&rtn=0",
+   "status": "ok",
+   "flag_auditoria": null,
+   "metodo": "chrome_local"
+  },
+  {
+   "coletado_em": "2026-08-11T21:16:58.673287-03:00",
+   "rota": "GIG-SSA",
+   "origem": "GIG",
+   "destino": "SSA",
+   "data_embarque": "2026-09-10",
+   "antecedencia_dias": 30,
+   "preco_mais_barato": 616,
+   "preco_direto": 628,
+   "por_companhia": {
+    "Azul": 616,
+    "GOL": 628,
+    "LATAM": 648
+   },
+   "vendedores": {},
+   "zupper_vitrine": null,
+   "url_busca": "https://www.skyscanner.com.br/transporte/voos/gig/ssa/260910/?adultsv2=1&cabinclass=economy&rtn=0",
+   "status": "ok",
+   "flag_auditoria": null,
+   "metodo": "chrome_local"
+  },
+  {
+   "coletado_em": "2026-08-11T21:16:58.673287-03:00",
+   "rota": "SSA-GIG",
+   "origem": "SSA",
+   "destino": "GIG",
+   "data_embarque": "2026-09-10",
+   "antecedencia_dias": 30,
+   "preco_mais_barato": 732,
+   "preco_direto": 1187,
+   "por_companhia": {
+    "GOL": 1187,
+    "LATAM": 732
+   },
+   "vendedores": {},
+   "zupper_vitrine": null,
+   "url_busca": "https://www.skyscanner.com.br/transporte/voos/ssa/gig/260910/?adultsv2=1&cabinclass=economy&rtn=0",
+   "status": "ok",
+   "flag_auditoria": null,
+   "metodo": "chrome_local"
+  },
+  {
+   "coletado_em": "2026-08-11T21:16:58.673287-03:00",
+   "rota": "REC-CGH",
+   "origem": "REC",
+   "destino": "CGH",
+   "data_embarque": "2026-09-10",
+   "antecedencia_dias": 30,
+   "preco_mais_barato": 776,
+   "preco_direto": 776,
+   "por_companhia": {
+    "Azul": 776,
+    "GOL": 997,
+    "LATAM": 822
+   },
+   "vendedores": {},
+   "zupper_vitrine": null,
+   "url_busca": "https://www.skyscanner.com.br/transporte/voos/rec/cgh/260910/?adultsv2=1&cabinclass=economy&rtn=0",
+   "status": "ok",
+   "flag_auditoria": null,
+   "metodo": "chrome_local"
+  },
+  {
+   "coletado_em": "2026-08-11T21:16:58.673287-03:00",
+   "rota": "CGH-REC",
+   "origem": "CGH",
+   "destino": "REC",
+   "data_embarque": "2026-09-10",
+   "antecedencia_dias": 30,
+   "preco_mais_barato": 779,
+   "preco_direto": 779,
+   "por_companhia": {
+    "Azul": 779,
+    "GOL": 1344,
+    "LATAM": 818
+   },
+   "vendedores": {},
+   "zupper_vitrine": null,
+   "url_busca": "https://www.skyscanner.com.br/transporte/voos/cgh/rec/260910/?adultsv2=1&cabinclass=economy&rtn=0",
+   "status": "ok",
+   "flag_auditoria": null,
+   "metodo": "chrome_local"
+  },
+  {
+   "coletado_em": "2026-08-11T21:16:58.673287-03:00",
+   "rota": "GRU-JDO",
+   "origem": "GRU",
+   "destino": "JDO",
+   "data_embarque": "2026-09-10",
+   "antecedencia_dias": 30,
+   "preco_mais_barato": 769,
+   "preco_direto": 769,
+   "por_companhia": {
+    "Azul": 987,
+    "GOL": 769,
+    "LATAM": 980
+   },
+   "vendedores": {},
+   "zupper_vitrine": null,
+   "url_busca": "https://www.skyscanner.com.br/transporte/voos/gru/jdo/260910/?adultsv2=1&cabinclass=economy&rtn=0",
+   "status": "ok",
+   "flag_auditoria": null,
+   "metodo": "chrome_local"
+  },
+  {
+   "coletado_em": "2026-08-11T21:16:58.673287-03:00",
+   "rota": "FOR-GRU",
+   "origem": "FOR",
+   "destino": "GRU",
+   "data_embarque": "2026-09-10",
+   "antecedencia_dias": 30,
+   "preco_mais_barato": 769,
+   "preco_direto": 769,
+   "por_companhia": {
+    "GOL": 769,
+    "LATAM": 806
    },
    "vendedores": {},
    "zupper_vitrine": null,
