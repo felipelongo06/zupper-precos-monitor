@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-08-27T11:19:01.023113-03:00",
+ "atualizado_em": "2026-08-27T13:17:46.914408-03:00",
  "regra": "embarque D+30; retenção 45d; via Chrome local; vitrine de vendedores incluída",
  "coletas": [
   {
@@ -49350,7 +49350,7 @@
    "por_companhia": {
     "GOL": 505,
     "LATAM": 607,
-    "Azul": 587
+    "Azul": 562
    },
    "vendedores": [
     {
@@ -49360,14 +49360,14 @@
      "posicao": 1
     },
     {
-     "nome": "123milhas",
-     "preco": 557,
+     "nome": "MaxMilhas",
+     "preco": 515,
      "recomendado": true,
      "posicao": 2
     },
     {
-     "nome": "MaxMilhas",
-     "preco": 564,
+     "nome": "123milhas",
+     "preco": 557,
      "recomendado": true,
      "posicao": 3
     },
@@ -49391,7 +49391,7 @@
     },
     {
      "nome": "Trip.com",
-     "preco": 768,
+     "preco": 770,
      "recomendado": true,
      "posicao": 7
     },
@@ -49415,7 +49415,7 @@
     },
     {
      "nome": "Kiwi.com",
-     "preco": 1199,
+     "preco": 1204,
      "recomendado": false,
      "posicao": 11
     }
@@ -49425,7 +49425,7 @@
    "zupper_gap_1o": 147,
    "zupper_recomendado": false,
    "status": "ok",
-   "coletado_em": "2026-08-27T11:18:33.829643-03:00",
+   "coletado_em": "2026-08-27T13:17:46.914408-03:00",
    "data_embarque": "2026-09-26",
    "antecedencia_dias": 30,
    "url_busca": "https://www.skyscanner.com.br/transporte/voos/ssa/cgh/260926/?adultsv2=1&cabinclass=economy&rtn=0",
@@ -49488,7 +49488,7 @@
     },
     {
      "nome": "Trip.com",
-     "preco": 778,
+     "preco": 781,
      "recomendado": true,
      "posicao": 8
     },
@@ -49506,7 +49506,7 @@
     },
     {
      "nome": "Kiwi.com",
-     "preco": 1214,
+     "preco": 1219,
      "recomendado": false,
      "posicao": 11
     }
@@ -49516,7 +49516,7 @@
    "zupper_gap_1o": 148,
    "zupper_recomendado": false,
    "status": "ok",
-   "coletado_em": "2026-08-27T11:18:33.829643-03:00",
+   "coletado_em": "2026-08-27T13:17:46.914408-03:00",
    "data_embarque": "2026-09-26",
    "antecedencia_dias": 30,
    "url_busca": "https://www.skyscanner.com.br/transporte/voos/cgh/ssa/260926/?adultsv2=1&cabinclass=economy&rtn=0",
@@ -49531,10 +49531,10 @@
    "preco_direto": 467,
    "por_companhia": {
     "GOL": 467,
-    "LATAM": 571,
-    "Azul": 570,
-    "Aerolineas": 2716,
-    "Avianca": 6184,
+    "LATAM": 549,
+    "Azul": 544,
+    "Aerolineas": 2711,
+    "Avianca": 5980,
     "TAP": 7606
    },
    "vendedores": [
@@ -49576,7 +49576,7 @@
     },
     {
      "nome": "Trip.com",
-     "preco": 636,
+     "preco": 638,
      "recomendado": true,
      "posicao": 7
     },
@@ -49600,7 +49600,7 @@
     },
     {
      "nome": "Kiwi.com",
-     "preco": 999,
+     "preco": 1003,
      "recomendado": false,
      "posicao": 11
     }
@@ -49610,7 +49610,7 @@
    "zupper_gap_1o": 78,
    "zupper_recomendado": false,
    "status": "ok",
-   "coletado_em": "2026-08-27T11:18:33.829643-03:00",
+   "coletado_em": "2026-08-27T13:17:46.914408-03:00",
    "data_embarque": "2026-09-26",
    "antecedencia_dias": 30,
    "url_busca": "https://www.skyscanner.com.br/transporte/voos/gru/ssa/260926/?adultsv2=1&cabinclass=economy&rtn=0",
@@ -49626,10 +49626,7 @@
    "por_companhia": {
     "GOL": 484,
     "LATAM": 588,
-    "Azul": 576,
-    "Aerolineas": 4439,
-    "Avianca": 5525,
-    "TAP": 8996
+    "Azul": 531
    },
    "vendedores": [
     {
@@ -49664,7 +49661,7 @@
     },
     {
      "nome": "Trip.com",
-     "preco": 655,
+     "preco": 657,
      "recomendado": true,
      "posicao": 6
     },
@@ -49694,13 +49691,13 @@
     },
     {
      "nome": "Kissandfly",
-     "preco": 754,
+     "preco": 774,
      "recomendado": false,
      "posicao": 11
     },
     {
      "nome": "Kiwi.com",
-     "preco": 1026,
+     "preco": 1030,
      "recomendado": false,
      "posicao": 12
     }
@@ -49710,7 +49707,7 @@
    "zupper_gap_1o": 78,
    "zupper_recomendado": false,
    "status": "ok",
-   "coletado_em": "2026-08-27T11:18:33.829643-03:00",
+   "coletado_em": "2026-08-27T13:17:46.914408-03:00",
    "data_embarque": "2026-09-26",
    "antecedencia_dias": 30,
    "url_busca": "https://www.skyscanner.com.br/transporte/voos/ssa/gru/260926/?adultsv2=1&cabinclass=economy&rtn=0",
@@ -49721,18 +49718,17 @@
    "rota": "GIG-SSA",
    "origem": "GIG",
    "destino": "SSA",
-   "preco_mais_barato": 451,
+   "preco_mais_barato": 450,
    "preco_direto": 467,
    "por_companhia": {
-    "Azul": 451,
+    "Azul": 450,
     "GOL": 467,
-    "LATAM": 660,
-    "Aerolineas": 2327
+    "LATAM": 649
    },
    "vendedores": [
     {
      "nome": "Trip.com",
-     "preco": 451,
+     "preco": 450,
      "recomendado": true,
      "posicao": 1
     },
@@ -49811,10 +49807,10 @@
    ],
    "zupper_vitrine": 471,
    "zupper_posicao": 2,
-   "zupper_gap_1o": 20,
+   "zupper_gap_1o": 21,
    "zupper_recomendado": false,
    "status": "ok",
-   "coletado_em": "2026-08-27T11:18:33.829643-03:00",
+   "coletado_em": "2026-08-27T13:17:46.914408-03:00",
    "data_embarque": "2026-09-26",
    "antecedencia_dias": 30,
    "url_busca": "https://www.skyscanner.com.br/transporte/voos/gig/ssa/260926/?adultsv2=1&cabinclass=economy&rtn=0",
@@ -49826,100 +49822,98 @@
    "origem": "SSA",
    "destino": "GIG",
    "preco_mais_barato": 467,
-   "preco_direto": 484,
+   "preco_direto": 523,
    "por_companhia": {
     "Azul": 467,
-    "GOL": 484,
-    "LATAM": 645,
-    "Aerolineas": 3641,
-    "Sky Airline": 5340
+    "GOL": 523,
+    "LATAM": 601
    },
    "vendedores": [
     {
      "nome": "123milhas",
-     "preco": 467,
+     "preco": 494,
      "recomendado": true,
      "posicao": 1
-    },
-    {
-     "nome": "MaxMilhas",
-     "preco": 476,
-     "recomendado": true,
-     "posicao": 2
-    },
-    {
-     "nome": "Zupper",
-     "preco": 488,
-     "recomendado": false,
-     "posicao": 3
-    },
-    {
-     "nome": "Decolar",
-     "preco": 496,
-     "recomendado": false,
-     "posicao": 4
-    },
-    {
-     "nome": "ViajaNet",
-     "preco": 496,
-     "recomendado": false,
-     "posicao": 5
-    },
-    {
-     "nome": "Vai de Promo",
-     "preco": 497,
-     "recomendado": true,
-     "posicao": 6
     },
     {
      "nome": "Booking.com",
      "preco": 498,
      "recomendado": true,
-     "posicao": 7
+     "posicao": 2
+    },
+    {
+     "nome": "Vai de Promo",
+     "preco": 502,
+     "recomendado": true,
+     "posicao": 3
+    },
+    {
+     "nome": "MaxMilhas",
+     "preco": 503,
+     "recomendado": true,
+     "posicao": 4
     },
     {
      "nome": "Mytrip",
      "preco": 539,
      "recomendado": false,
-     "posicao": 8
-    },
-    {
-     "nome": "Trip.com",
-     "preco": 540,
-     "recomendado": true,
-     "posicao": 9
+     "posicao": 5
     },
     {
      "nome": "Gotogate",
      "preco": 573,
      "recomendado": false,
-     "posicao": 10
+     "posicao": 6
     },
     {
-     "nome": "Expedia",
-     "preco": 859,
+     "nome": "Trip.com",
+     "preco": 710,
+     "recomendado": true,
+     "posicao": 7
+    },
+    {
+     "nome": "Zupper",
+     "preco": 822,
      "recomendado": false,
-     "posicao": 11
+     "posicao": 8
+    },
+    {
+     "nome": "Decolar",
+     "preco": 836,
+     "recomendado": false,
+     "posicao": 9
+    },
+    {
+     "nome": "ViajaNet",
+     "preco": 836,
+     "recomendado": false,
+     "posicao": 10
     },
     {
      "nome": "CVC Viagens",
      "preco": 1026,
      "recomendado": false,
-     "posicao": 12
+     "posicao": 11
     },
     {
      "nome": "Azul",
      "preco": 1026,
      "recomendado": false,
+     "posicao": 12
+    },
+    {
+     "nome": "Expedia",
+     "preco": 1122,
+     "recomendado": false,
      "posicao": 13
     }
    ],
-   "zupper_vitrine": 488,
-   "zupper_posicao": 3,
-   "zupper_gap_1o": 21,
+   "zupper_vitrine": 822,
+   "zupper_posicao": 8,
+   "zupper_gap_1o": 328,
    "zupper_recomendado": false,
    "status": "ok",
-   "coletado_em": "2026-08-27T11:18:33.829643-03:00",
+   "coletado_em": "2026-08-27T13:17:46.914408-03:00",
    "data_embarque": "2026-09-26",
    "antecedencia_dias": 30,
    "url_busca": "https://www.skyscanner.com.br/transporte/voos/ssa/gig/260926/?adultsv2=1&cabinclass=economy&rtn=0",
@@ -49934,9 +49928,8 @@
    "preco_direto": 625,
    "por_companhia": {
     "GOL": 625,
-    "Azul": 660,
-    "LATAM": 728,
-    "TAP": 12454
+    "Azul": 727,
+    "LATAM": 767
    },
    "vendedores": [
     {
@@ -49976,46 +49969,40 @@
      "posicao": 6
     },
     {
-     "nome": "Gotogate",
-     "preco": 950,
-     "recomendado": false,
-     "posicao": 7
-    },
-    {
      "nome": "Trip.com",
-     "preco": 955,
+     "preco": 958,
      "recomendado": true,
-     "posicao": 8
+     "posicao": 7
     },
     {
      "nome": "Decolar",
      "preco": 988,
      "recomendado": false,
-     "posicao": 9
+     "posicao": 8
     },
     {
      "nome": "ViajaNet",
      "preco": 988,
      "recomendado": false,
-     "posicao": 10
+     "posicao": 9
     },
     {
      "nome": "CVC Viagens",
      "preco": 992,
      "recomendado": false,
-     "posicao": 11
+     "posicao": 10
     },
     {
      "nome": "Kissandfly",
      "preco": 1097,
      "recomendado": false,
-     "posicao": 12
+     "posicao": 11
     },
     {
      "nome": "Kiwi.com",
      "preco": 1499,
      "recomendado": false,
-     "posicao": 13
+     "posicao": 12
     }
    ],
    "zupper_vitrine": 807,
@@ -50023,7 +50010,7 @@
    "zupper_gap_1o": 182,
    "zupper_recomendado": false,
    "status": "ok",
-   "coletado_em": "2026-08-27T11:18:33.829643-03:00",
+   "coletado_em": "2026-08-27T13:17:46.914408-03:00",
    "data_embarque": "2026-09-26",
    "antecedencia_dias": 30,
    "url_busca": "https://www.skyscanner.com.br/transporte/voos/rec/cgh/260926/?adultsv2=1&cabinclass=economy&rtn=0",
@@ -50034,12 +50021,12 @@
    "rota": "CGH-REC",
    "origem": "CGH",
    "destino": "REC",
-   "preco_mais_barato": 690,
-   "preco_direto": 690,
+   "preco_mais_barato": 684,
+   "preco_direto": 684,
    "por_companhia": {
-    "Azul": 690,
-    "GOL": 734,
-    "LATAM": 768
+    "Azul": 684,
+    "LATAM": 732,
+    "GOL": 795
    },
    "vendedores": [
     {
@@ -50049,84 +50036,72 @@
      "posicao": 1
     },
     {
-     "nome": "MaxMilhas",
-     "preco": 699,
+     "nome": "123milhas",
+     "preco": 686,
      "recomendado": true,
      "posicao": 2
     },
     {
-     "nome": "123milhas",
-     "preco": 701,
+     "nome": "MaxMilhas",
+     "preco": 699,
      "recomendado": true,
      "posicao": 3
     },
     {
-     "nome": "Zupper",
-     "preco": 779,
-     "recomendado": false,
+     "nome": "Trip.com",
+     "preco": 828,
+     "recomendado": true,
      "posicao": 4
     },
     {
      "nome": "Booking.com",
-     "preco": 785,
+     "preco": 834,
      "recomendado": true,
      "posicao": 5
     },
     {
-     "nome": "Mytrip",
-     "preco": 812,
+     "nome": "ViajaNet",
+     "preco": 839,
      "recomendado": false,
      "posicao": 6
     },
     {
-     "nome": "Trip.com",
-     "preco": 877,
-     "recomendado": true,
+     "nome": "Decolar",
+     "preco": 840,
+     "recomendado": false,
      "posicao": 7
     },
     {
-     "nome": "Decolar",
-     "preco": 915,
+     "nome": "Azul",
+     "preco": 843,
      "recomendado": false,
      "posicao": 8
     },
     {
-     "nome": "ViajaNet",
-     "preco": 915,
+     "nome": "CVC Viagens",
+     "preco": 854,
      "recomendado": false,
      "posicao": 9
     },
     {
-     "nome": "Azul",
-     "preco": 1040,
+     "nome": "Zupper",
+     "preco": 873,
      "recomendado": false,
      "posicao": 10
     },
     {
-     "nome": "CVC Viagens",
-     "preco": 1121,
+     "nome": "Expedia",
+     "preco": 904,
      "recomendado": false,
      "posicao": 11
-    },
-    {
-     "nome": "Expedia",
-     "preco": 1121,
-     "recomendado": false,
-     "posicao": 12
-    },
-    {
-     "nome": "Gotogate",
-     "preco": 1220,
-     "recomendado": false,
-     "posicao": 13
     }
    ],
-   "zupper_vitrine": 779,
-   "zupper_posicao": 4,
-   "zupper_gap_1o": 95,
+   "zupper_vitrine": 873,
+   "zupper_posicao": 10,
+   "zupper_gap_1o": 189,
    "zupper_recomendado": false,
    "status": "ok",
-   "coletado_em": "2026-08-27T11:18:33.829643-03:00",
+   "coletado_em": "2026-08-27T13:17:46.914408-03:00",
    "data_embarque": "2026-09-26",
    "antecedencia_dias": 30,
    "url_busca": "https://www.skyscanner.com.br/transporte/voos/cgh/rec/260926/?adultsv2=1&cabinclass=economy&rtn=0",
@@ -50137,10 +50112,10 @@
    "rota": "GRU-JDO",
    "origem": "GRU",
    "destino": "JDO",
-   "preco_mais_barato": 632,
-   "preco_direto": 632,
+   "preco_mais_barato": 635,
+   "preco_direto": 635,
    "por_companhia": {
-    "GOL": 632,
+    "GOL": 635,
     "LATAM": 667,
     "Azul": 1754
    },
@@ -50183,7 +50158,7 @@
     },
     {
      "nome": "Trip.com",
-     "preco": 749,
+     "preco": 752,
      "recomendado": true,
      "posicao": 7
     },
@@ -50217,7 +50192,7 @@
    "zupper_gap_1o": 3,
    "zupper_recomendado": false,
    "status": "ok",
-   "coletado_em": "2026-08-27T11:18:33.829643-03:00",
+   "coletado_em": "2026-08-27T13:17:46.914408-03:00",
    "data_embarque": "2026-09-26",
    "antecedencia_dias": 30,
    "url_busca": "https://www.skyscanner.com.br/transporte/voos/gru/jdo/260926/?adultsv2=1&cabinclass=economy&rtn=0",
@@ -50232,11 +50207,8 @@
    "preco_direto": 758,
    "por_companhia": {
     "LATAM": 758,
-    "GOL": 843,
-    "Azul": 1175,
-    "Aerolineas": 4841,
-    "Avianca": 6164,
-    "TAP": 8154
+    "GOL": 847,
+    "Azul": 1182
    },
    "vendedores": [
     {
@@ -50264,54 +50236,48 @@
      "posicao": 4
     },
     {
-     "nome": "Zupper",
-     "preco": 812,
-     "recomendado": false,
-     "posicao": 5
-    },
-    {
      "nome": "Expedia",
      "preco": 838,
      "recomendado": false,
-     "posicao": 6
+     "posicao": 5
     },
     {
      "nome": "Booking.com",
      "preco": 856,
      "recomendado": true,
-     "posicao": 7
+     "posicao": 6
     },
     {
      "nome": "Trip.com",
      "preco": 858,
      "recomendado": true,
-     "posicao": 8
+     "posicao": 7
     },
     {
      "nome": "Decolar",
      "preco": 892,
      "recomendado": false,
-     "posicao": 9
+     "posicao": 8
     },
     {
      "nome": "ViajaNet",
      "preco": 892,
      "recomendado": false,
-     "posicao": 10
+     "posicao": 9
     },
     {
      "nome": "Kiwi.com",
-     "preco": 956,
+     "preco": 960,
      "recomendado": false,
-     "posicao": 11
+     "posicao": 10
     }
    ],
-   "zupper_vitrine": 812,
-   "zupper_posicao": 5,
-   "zupper_gap_1o": 54,
+   "zupper_vitrine": null,
+   "zupper_posicao": null,
+   "zupper_gap_1o": null,
    "zupper_recomendado": false,
    "status": "ok",
-   "coletado_em": "2026-08-27T11:18:33.829643-03:00",
+   "coletado_em": "2026-08-27T13:17:46.914408-03:00",
    "data_embarque": "2026-09-26",
    "antecedencia_dias": 30,
    "url_busca": "https://www.skyscanner.com.br/transporte/voos/for/gru/260926/?adultsv2=1&cabinclass=economy&rtn=0",
