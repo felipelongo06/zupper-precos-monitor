@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-03T23:26:07-03:00",
+  "atualizado_em": "2026-09-04T09:29:48-03:00",
   "regra": "ida e volta; ida na sexta mais próxima de D+30, volta +3 dias; retenção 45d; coleta via Chrome local. ATENÇÃO: coletas anteriores a 2026-08-26 são de só ida e não comparáveis.",
   "coletas": [
     {
@@ -74330,6 +74330,646 @@
           "preco": null,
           "recomendado": false,
           "posicao": 3
+        }
+      ],
+      "zupper_vitrine": null,
+      "zupper_posicao": null,
+      "zupper_gap_1o": null,
+      "zupper_recomendado": null,
+      "url_busca": "https://www.skyscanner.com.br/transporte/voos/for/gru/261002/261005/?adultsv2=1&cabinclass=economy&rtn=1",
+      "status": "ok",
+      "flag_auditoria": null,
+      "metodo": "chrome_local"
+    },
+    {
+      "coletado_em": "2026-09-04T09:29:48-03:00",
+      "rota": "SSA-CGH",
+      "origem": "SSA",
+      "destino": "CGH",
+      "data_ida": "2026-10-02",
+      "data_volta": "2026-10-05",
+      "tipo_itinerario": "round_trip",
+      "antecedencia_dias": 28,
+      "preco_mais_barato": 1181,
+      "preco_direto": 1220,
+      "por_companhia": {
+        "GOL": 1220,
+        "LATAM": 1870,
+        "Azul": 1181,
+        "Multi": 1356
+      },
+      "vendedores": [
+        {
+          "posicao": 1,
+          "nome": "Trip.com",
+          "preco": 1181,
+          "recomendado": true
+        },
+        {
+          "posicao": 2,
+          "nome": "123milhas",
+          "preco": 1416,
+          "recomendado": true
+        },
+        {
+          "posicao": 3,
+          "nome": "Decolar",
+          "preco": 1418,
+          "recomendado": false
+        },
+        {
+          "posicao": 4,
+          "nome": "ViajaNet",
+          "preco": 1418,
+          "recomendado": false
+        },
+        {
+          "posicao": 5,
+          "nome": "MaxMilhas",
+          "preco": 1505,
+          "recomendado": true
+        },
+        {
+          "posicao": 6,
+          "nome": "Expedia",
+          "preco": 1586,
+          "recomendado": false
+        },
+        {
+          "posicao": 7,
+          "nome": "Booking.com",
+          "preco": 1599,
+          "recomendado": true
+        },
+        {
+          "posicao": 8,
+          "nome": "Azul",
+          "preco": 1733,
+          "recomendado": false
+        }
+      ],
+      "zupper_vitrine": null,
+      "zupper_posicao": null,
+      "zupper_gap_1o": null,
+      "zupper_recomendado": null,
+      "url_busca": "https://www.skyscanner.com.br/transporte/voos/ssa/cgh/261002/261005/?adultsv2=1&cabinclass=economy&rtn=1",
+      "status": "ok",
+      "flag_auditoria": null,
+      "metodo": "chrome_local"
+    },
+    {
+      "coletado_em": "2026-09-04T09:29:48-03:00",
+      "rota": "CGH-SSA",
+      "origem": "CGH",
+      "destino": "SSA",
+      "data_ida": "2026-10-02",
+      "data_volta": "2026-10-05",
+      "tipo_itinerario": "round_trip",
+      "antecedencia_dias": 28,
+      "preco_mais_barato": 1220,
+      "preco_direto": 1220,
+      "por_companhia": {
+        "GOL": 1220,
+        "LATAM": 1875,
+        "Azul": 1380,
+        "Multi": 1353
+      },
+      "vendedores": [
+        {
+          "posicao": 1,
+          "nome": "123milhas",
+          "preco": 1220,
+          "recomendado": true
+        },
+        {
+          "posicao": 2,
+          "nome": "MaxMilhas",
+          "preco": 1224,
+          "recomendado": true
+        },
+        {
+          "posicao": 3,
+          "nome": "Vai de Promo",
+          "preco": 1742,
+          "recomendado": true
+        },
+        {
+          "posicao": 4,
+          "nome": "Zupper",
+          "preco": 1882,
+          "recomendado": false
+        },
+        {
+          "posicao": 5,
+          "nome": "GOL Linhas Aéreas",
+          "preco": 1934,
+          "recomendado": false
+        },
+        {
+          "posicao": 6,
+          "nome": "Booking.com",
+          "preco": 2027,
+          "recomendado": true
+        },
+        {
+          "posicao": 7,
+          "nome": "Trip.com",
+          "preco": 2035,
+          "recomendado": true
+        },
+        {
+          "posicao": 8,
+          "nome": "Mytrip",
+          "preco": 2075,
+          "recomendado": false
+        },
+        {
+          "posicao": 9,
+          "nome": "Decolar",
+          "preco": 2108,
+          "recomendado": false
+        },
+        {
+          "posicao": 10,
+          "nome": "ViajaNet",
+          "preco": 2108,
+          "recomendado": false
+        },
+        {
+          "posicao": 11,
+          "nome": "CVC Viagens",
+          "preco": 2116,
+          "recomendado": false
+        },
+        {
+          "posicao": 12,
+          "nome": "Kiwi.com",
+          "preco": 3183,
+          "recomendado": false
+        }
+      ],
+      "zupper_vitrine": 1882,
+      "zupper_posicao": 4,
+      "zupper_gap_1o": 662,
+      "zupper_recomendado": false,
+      "url_busca": "https://www.skyscanner.com.br/transporte/voos/cgh/ssa/261002/261005/?adultsv2=1&cabinclass=economy&rtn=1",
+      "status": "ok",
+      "flag_auditoria": null,
+      "metodo": "chrome_local"
+    },
+    {
+      "coletado_em": "2026-09-04T09:29:48-03:00",
+      "rota": "GRU-SSA",
+      "origem": "GRU",
+      "destino": "SSA",
+      "data_ida": "2026-10-02",
+      "data_volta": "2026-10-05",
+      "tipo_itinerario": "round_trip",
+      "antecedencia_dias": 28,
+      "preco_mais_barato": 1271,
+      "preco_direto": 1271,
+      "por_companhia": {
+        "GOL": 1271,
+        "LATAM": 1674,
+        "Azul": 1297,
+        "Multi": 1334
+      },
+      "vendedores": [
+        {
+          "posicao": 1,
+          "nome": "123milhas",
+          "preco": 1271,
+          "recomendado": true
+        },
+        {
+          "posicao": 2,
+          "nome": "MaxMilhas",
+          "preco": 1274,
+          "recomendado": true
+        },
+        {
+          "posicao": 3,
+          "nome": "Vai de Promo",
+          "preco": 1830,
+          "recomendado": true
+        },
+        {
+          "posicao": 4,
+          "nome": "Zupper",
+          "preco": 1980,
+          "recomendado": false
+        },
+        {
+          "posicao": 5,
+          "nome": "GOL Linhas Aéreas",
+          "preco": 2036,
+          "recomendado": false
+        },
+        {
+          "posicao": 6,
+          "nome": "Kiwi.com",
+          "preco": 2072,
+          "recomendado": false
+        },
+        {
+          "posicao": 7,
+          "nome": "Booking.com",
+          "preco": 2131,
+          "recomendado": true
+        },
+        {
+          "posicao": 8,
+          "nome": "Trip.com",
+          "preco": 2149,
+          "recomendado": true
+        },
+        {
+          "posicao": 9,
+          "nome": "Decolar",
+          "preco": 2222,
+          "recomendado": false
+        },
+        {
+          "posicao": 10,
+          "nome": "ViajaNet",
+          "preco": 2222,
+          "recomendado": false
+        },
+        {
+          "posicao": 11,
+          "nome": "CVC Viagens",
+          "preco": 2230,
+          "recomendado": false
+        }
+      ],
+      "zupper_vitrine": 1980,
+      "zupper_posicao": 4,
+      "zupper_gap_1o": 709,
+      "zupper_recomendado": false,
+      "url_busca": "https://www.skyscanner.com.br/transporte/voos/gru/ssa/261002/261005/?adultsv2=1&cabinclass=economy&rtn=1",
+      "status": "ok",
+      "flag_auditoria": null,
+      "metodo": "chrome_local"
+    },
+    {
+      "coletado_em": "2026-09-04T09:29:48-03:00",
+      "rota": "SSA-GRU",
+      "origem": "SSA",
+      "destino": "GRU",
+      "data_ida": "2026-10-02",
+      "data_volta": "2026-10-05",
+      "tipo_itinerario": "round_trip",
+      "antecedencia_dias": 28,
+      "preco_mais_barato": 1207,
+      "preco_direto": 1271,
+      "por_companhia": {
+        "GOL": 1271,
+        "LATAM": 1674,
+        "Azul": 1207,
+        "Multi": 1284
+      },
+      "vendedores": [
+        {
+          "posicao": 1,
+          "nome": "123milhas",
+          "preco": 1271,
+          "recomendado": true
+        },
+        {
+          "posicao": 2,
+          "nome": "MaxMilhas",
+          "preco": 1274,
+          "recomendado": true
+        },
+        {
+          "posicao": 3,
+          "nome": "Vai de Promo",
+          "preco": 1830,
+          "recomendado": true
+        },
+        {
+          "posicao": 4,
+          "nome": "Zupper",
+          "preco": 1980,
+          "recomendado": false
+        },
+        {
+          "posicao": 5,
+          "nome": "GOL Linhas Aéreas",
+          "preco": 2036,
+          "recomendado": false
+        },
+        {
+          "posicao": 6,
+          "nome": "Kiwi.com",
+          "preco": 2071,
+          "recomendado": false
+        },
+        {
+          "posicao": 7,
+          "nome": "Booking.com",
+          "preco": 2133,
+          "recomendado": true
+        },
+        {
+          "posicao": 8,
+          "nome": "Trip.com",
+          "preco": 2149,
+          "recomendado": true
+        },
+        {
+          "posicao": 9,
+          "nome": "Decolar",
+          "preco": 2222,
+          "recomendado": false
+        },
+        {
+          "posicao": 10,
+          "nome": "ViajaNet",
+          "preco": 2222,
+          "recomendado": false
+        },
+        {
+          "posicao": 11,
+          "nome": "CVC Viagens",
+          "preco": 2230,
+          "recomendado": false
+        }
+      ],
+      "zupper_vitrine": 1980,
+      "zupper_posicao": 4,
+      "zupper_gap_1o": 709,
+      "zupper_recomendado": false,
+      "url_busca": "https://www.skyscanner.com.br/transporte/voos/ssa/gru/261002/261005/?adultsv2=1&cabinclass=economy&rtn=1",
+      "status": "ok",
+      "flag_auditoria": null,
+      "metodo": "chrome_local"
+    },
+    {
+      "coletado_em": "2026-09-04T09:29:48-03:00",
+      "rota": "GIG-SSA",
+      "origem": "GIG",
+      "destino": "SSA",
+      "data_ida": "2026-10-02",
+      "data_volta": "2026-10-05",
+      "tipo_itinerario": "round_trip",
+      "antecedencia_dias": 28,
+      "preco_mais_barato": 1143,
+      "preco_direto": 1534,
+      "por_companhia": {
+        "GOL": 1542,
+        "LATAM": 1551,
+        "Azul": 1143,
+        "Multi": 1257
+      },
+      "vendedores": [
+        {
+          "posicao": 1,
+          "nome": "123milhas",
+          "preco": 1134,
+          "recomendado": true
+        },
+        {
+          "posicao": 2,
+          "nome": "MaxMilhas",
+          "preco": 1156,
+          "recomendado": true
+        },
+        {
+          "posicao": 3,
+          "nome": "Zupper",
+          "preco": 1325,
+          "recomendado": false
+        },
+        {
+          "posicao": 4,
+          "nome": "Azul",
+          "preco": 1579,
+          "recomendado": false
+        }
+      ],
+      "zupper_vitrine": 1325,
+      "zupper_posicao": 3,
+      "zupper_gap_1o": 191,
+      "zupper_recomendado": false,
+      "url_busca": "https://www.skyscanner.com.br/transporte/voos/gig/ssa/261002/261005/?adultsv2=1&cabinclass=economy&rtn=1",
+      "status": "ok",
+      "flag_auditoria": null,
+      "metodo": "chrome_local"
+    },
+    {
+      "coletado_em": "2026-09-04T09:29:48-03:00",
+      "rota": "SSA-GIG",
+      "origem": "SSA",
+      "destino": "GIG",
+      "data_ida": "2026-10-02",
+      "data_volta": "2026-10-05",
+      "tipo_itinerario": "round_trip",
+      "antecedencia_dias": 28,
+      "preco_mais_barato": 1066,
+      "preco_direto": 1080,
+      "por_companhia": {
+        "GOL": 1080,
+        "LATAM": 1527,
+        "Azul": 1099,
+        "Multi": 1066
+      },
+      "vendedores": [
+        {
+          "posicao": 1,
+          "nome": "123milhas",
+          "preco": 1066,
+          "recomendado": true
+        },
+        {
+          "posicao": 2,
+          "nome": "MaxMilhas",
+          "preco": 1177,
+          "recomendado": true
+        }
+      ],
+      "zupper_vitrine": null,
+      "zupper_posicao": null,
+      "zupper_gap_1o": null,
+      "zupper_recomendado": null,
+      "url_busca": "https://www.skyscanner.com.br/transporte/voos/ssa/gig/261002/261005/?adultsv2=1&cabinclass=economy&rtn=1",
+      "status": "ok",
+      "flag_auditoria": null,
+      "metodo": "chrome_local"
+    },
+    {
+      "coletado_em": "2026-09-04T09:29:48-03:00",
+      "rota": "REC-CGH",
+      "origem": "REC",
+      "destino": "CGH",
+      "data_ida": "2026-10-02",
+      "data_volta": "2026-10-05",
+      "tipo_itinerario": "round_trip",
+      "antecedencia_dias": 28,
+      "preco_mais_barato": 1108,
+      "preco_direto": 1108,
+      "por_companhia": {
+        "GOL": 1426,
+        "LATAM": 1284,
+        "Azul": 1165,
+        "Multi": 1108
+      },
+      "vendedores": [
+        {
+          "posicao": 1,
+          "nome": "Zupper",
+          "preco": 1108,
+          "recomendado": false
+        },
+        {
+          "posicao": 2,
+          "nome": "Mytrip",
+          "preco": 1348,
+          "recomendado": false
+        },
+        {
+          "posicao": 3,
+          "nome": "Booking.com",
+          "preco": 1379,
+          "recomendado": false
+        },
+        {
+          "posicao": 4,
+          "nome": "Kiwi.com",
+          "preco": 1471,
+          "recomendado": false
+        },
+        {
+          "posicao": 5,
+          "nome": "MaxMilhas",
+          "preco": 1565,
+          "recomendado": false
+        }
+      ],
+      "zupper_vitrine": 1108,
+      "zupper_posicao": 1,
+      "zupper_gap_1o": 0,
+      "zupper_recomendado": false,
+      "url_busca": "https://www.skyscanner.com.br/transporte/voos/rec/cgh/261002/261005/?adultsv2=1&cabinclass=economy&rtn=1",
+      "status": "ok",
+      "flag_auditoria": null,
+      "metodo": "chrome_local"
+    },
+    {
+      "coletado_em": "2026-09-04T09:29:48-03:00",
+      "rota": "CGH-REC",
+      "origem": "CGH",
+      "destino": "REC",
+      "data_ida": "2026-10-02",
+      "data_volta": "2026-10-05",
+      "tipo_itinerario": "round_trip",
+      "antecedencia_dias": 28,
+      "preco_mais_barato": 1162,
+      "preco_direto": 1162,
+      "por_companhia": {
+        "GOL": 1433,
+        "LATAM": 1900,
+        "Azul": 1162,
+        "Multi": 1187
+      },
+      "vendedores": [
+        {
+          "posicao": 1,
+          "nome": "Trip.com",
+          "preco": 1162,
+          "recomendado": true
+        }
+      ],
+      "zupper_vitrine": null,
+      "zupper_posicao": null,
+      "zupper_gap_1o": null,
+      "zupper_recomendado": null,
+      "url_busca": "https://www.skyscanner.com.br/transporte/voos/cgh/rec/261002/261005/?adultsv2=1&cabinclass=economy&rtn=1",
+      "status": "ok",
+      "flag_auditoria": null,
+      "metodo": "chrome_local"
+    },
+    {
+      "coletado_em": "2026-09-04T09:29:48-03:00",
+      "rota": "GRU-JDO",
+      "origem": "GRU",
+      "destino": "JDO",
+      "data_ida": "2026-10-02",
+      "data_volta": "2026-10-05",
+      "tipo_itinerario": "round_trip",
+      "antecedencia_dias": 28,
+      "preco_mais_barato": 1046,
+      "preco_direto": 1212,
+      "por_companhia": {
+        "GOL": 1238,
+        "LATAM": 1358,
+        "Azul": 1169,
+        "Multi": 1046
+      },
+      "vendedores": [
+        {
+          "posicao": 1,
+          "nome": "Zupper",
+          "preco": 964,
+          "recomendado": false
+        },
+        {
+          "posicao": 2,
+          "nome": "Mytrip",
+          "preco": 1186,
+          "recomendado": false
+        },
+        {
+          "posicao": 3,
+          "nome": "Booking.com",
+          "preco": 1203,
+          "recomendado": true
+        }
+      ],
+      "zupper_vitrine": 964,
+      "zupper_posicao": 1,
+      "zupper_gap_1o": 0,
+      "zupper_recomendado": false,
+      "url_busca": "https://www.skyscanner.com.br/transporte/voos/gru/jdo/261002/261005/?adultsv2=1&cabinclass=economy&rtn=1",
+      "status": "ok",
+      "flag_auditoria": null,
+      "metodo": "chrome_local"
+    },
+    {
+      "coletado_em": "2026-09-04T09:29:48-03:00",
+      "rota": "FOR-GRU",
+      "origem": "FOR",
+      "destino": "GRU",
+      "data_ida": "2026-10-02",
+      "data_volta": "2026-10-05",
+      "tipo_itinerario": "round_trip",
+      "antecedencia_dias": 28,
+      "preco_mais_barato": 1249,
+      "preco_direto": 1437,
+      "por_companhia": {
+        "GOL": 1437,
+        "LATAM": 1249,
+        "Azul": 1546,
+        "Multi": 1356
+      },
+      "vendedores": [
+        {
+          "posicao": 1,
+          "nome": "Kissandfly",
+          "preco": 1249,
+          "recomendado": false
+        },
+        {
+          "posicao": 2,
+          "nome": "Expedia",
+          "preco": 4764,
+          "recomendado": false
+        },
+        {
+          "posicao": 3,
+          "nome": "Booking.com",
+          "preco": 5472,
+          "recomendado": true
         }
       ],
       "zupper_vitrine": null,
