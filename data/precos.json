@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-09-04T15:33:40.384242-03:00",
+ "atualizado_em": "2026-09-04T22:32:25.978470-03:00",
  "regra": "ida e volta; ida na sexta mais próxima de D+30, volta +3 dias; retenção 45d; coleta via Chrome local. ATENÇÃO: coletas anteriores a 2026-08-26 são de só ida e não comparáveis.",
  "coletas": [
   {
@@ -76459,6 +76459,898 @@
    "flag_auditoria": null,
    "metodo": "chrome_local",
    "obs": "Zupper ausente na vitrine deste fare (4 vendedores)"
+  },
+  {
+   "coletado_em": "2026-09-04T22:32:25.978470-03:00",
+   "rota": "SSA-CGH",
+   "origem": "SSA",
+   "destino": "CGH",
+   "data_ida": "2026-10-02",
+   "data_volta": "2026-10-05",
+   "tipo_itinerario": "round_trip",
+   "antecedencia_dias": 28,
+   "preco_mais_barato": 1054,
+   "preco_direto": 1054,
+   "por_companhia": {
+    "GOL": 1054,
+    "LATAM": 1847,
+    "Azul": 1381,
+    "Multi": 1411
+   },
+   "vendedores": [
+    {
+     "posicao": 1,
+     "nome": "Vai de Promo",
+     "preco": 1054,
+     "recomendado": true
+    },
+    {
+     "posicao": 2,
+     "nome": "123milhas",
+     "preco": 1137,
+     "recomendado": true
+    },
+    {
+     "posicao": 3,
+     "nome": "MaxMilhas",
+     "preco": 1176,
+     "recomendado": true
+    },
+    {
+     "posicao": 4,
+     "nome": "Zupper",
+     "preco": 1720,
+     "recomendado": false
+    },
+    {
+     "posicao": 5,
+     "nome": "Trip.com",
+     "preco": 1844,
+     "recomendado": true
+    },
+    {
+     "posicao": 6,
+     "nome": "GOL Linhas Aéreas",
+     "preco": 1914,
+     "recomendado": false
+    },
+    {
+     "posicao": 7,
+     "nome": "CVC Viagens",
+     "preco": 1973,
+     "recomendado": false
+    },
+    {
+     "posicao": 8,
+     "nome": "Booking.com",
+     "preco": 1997,
+     "recomendado": true
+    },
+    {
+     "posicao": 9,
+     "nome": "Decolar",
+     "preco": 2087,
+     "recomendado": false
+    },
+    {
+     "posicao": 10,
+     "nome": "ViajaNet",
+     "preco": 2087,
+     "recomendado": false
+    },
+    {
+     "posicao": 11,
+     "nome": "Kiwi.com",
+     "preco": 3154,
+     "recomendado": false
+    }
+   ],
+   "zupper_vitrine": 1720,
+   "zupper_posicao": 4,
+   "zupper_gap_1o": 666,
+   "zupper_recomendado": false,
+   "url_busca": "https://www.skyscanner.com.br/transporte/voos/ssa/cgh/261002/261005/?adultsv2=1&cabinclass=economy&rtn=1",
+   "status": "ok",
+   "flag_auditoria": null,
+   "metodo": "chrome_local"
+  },
+  {
+   "coletado_em": "2026-09-04T22:32:25.978470-03:00",
+   "rota": "CGH-SSA",
+   "origem": "CGH",
+   "destino": "SSA",
+   "data_ida": "2026-10-02",
+   "data_volta": "2026-10-05",
+   "tipo_itinerario": "round_trip",
+   "antecedencia_dias": 28,
+   "preco_mais_barato": 1054,
+   "preco_direto": 1054,
+   "por_companhia": {
+    "GOL": 1054,
+    "LATAM": 1834,
+    "Azul": 1518,
+    "Multi": 1318
+   },
+   "vendedores": [
+    {
+     "posicao": 1,
+     "nome": "Vai de Promo",
+     "preco": 1054,
+     "recomendado": true
+    },
+    {
+     "posicao": 2,
+     "nome": "123milhas",
+     "preco": 1137,
+     "recomendado": true
+    },
+    {
+     "posicao": 3,
+     "nome": "MaxMilhas",
+     "preco": 1176,
+     "recomendado": true
+    },
+    {
+     "posicao": 4,
+     "nome": "Zupper",
+     "preco": 1720,
+     "recomendado": false
+    },
+    {
+     "posicao": 5,
+     "nome": "Trip.com",
+     "preco": 1844,
+     "recomendado": true
+    },
+    {
+     "posicao": 6,
+     "nome": "GOL Linhas Aéreas",
+     "preco": 1914,
+     "recomendado": false
+    },
+    {
+     "posicao": 7,
+     "nome": "CVC Viagens",
+     "preco": 1973,
+     "recomendado": false
+    },
+    {
+     "posicao": 8,
+     "nome": "Decolar",
+     "preco": 2087,
+     "recomendado": false
+    },
+    {
+     "posicao": 9,
+     "nome": "ViajaNet",
+     "preco": 2087,
+     "recomendado": false
+    },
+    {
+     "posicao": 10,
+     "nome": "Kiwi.com",
+     "preco": 3150,
+     "recomendado": false
+    }
+   ],
+   "zupper_vitrine": 1720,
+   "zupper_posicao": 4,
+   "zupper_gap_1o": 666,
+   "zupper_recomendado": false,
+   "url_busca": "https://www.skyscanner.com.br/transporte/voos/cgh/ssa/261002/261005/?adultsv2=1&cabinclass=economy&rtn=1",
+   "status": "ok",
+   "flag_auditoria": null,
+   "metodo": "chrome_local"
+  },
+  {
+   "coletado_em": "2026-09-04T22:32:25.978470-03:00",
+   "rota": "GRU-SSA",
+   "origem": "GRU",
+   "destino": "SSA",
+   "data_ida": "2026-10-02",
+   "data_volta": "2026-10-05",
+   "tipo_itinerario": "round_trip",
+   "antecedencia_dias": 28,
+   "preco_mais_barato": 1098,
+   "preco_direto": 1098,
+   "por_companhia": {
+    "GOL": 1098,
+    "LATAM": 1674,
+    "Azul": 1462,
+    "Multi": 1373
+   },
+   "vendedores": [
+    {
+     "posicao": 1,
+     "nome": "Vai de Promo",
+     "preco": 1098,
+     "recomendado": true
+    },
+    {
+     "posicao": 2,
+     "nome": "123milhas",
+     "preco": 1186,
+     "recomendado": true
+    },
+    {
+     "posicao": 3,
+     "nome": "MaxMilhas",
+     "preco": 1228,
+     "recomendado": true
+    },
+    {
+     "posicao": 4,
+     "nome": "Zupper",
+     "preco": 1815,
+     "recomendado": false
+    },
+    {
+     "posicao": 5,
+     "nome": "GOL Linhas Aéreas",
+     "preco": 2024,
+     "recomendado": false
+    },
+    {
+     "posicao": 6,
+     "nome": "Kiwi.com",
+     "preco": 2061,
+     "recomendado": false
+    },
+    {
+     "posicao": 7,
+     "nome": "CVC Viagens",
+     "preco": 2087,
+     "recomendado": false
+    },
+    {
+     "posicao": 8,
+     "nome": "Booking.com",
+     "preco": 2110,
+     "recomendado": true
+    },
+    {
+     "posicao": 9,
+     "nome": "Trip.com",
+     "preco": 2173,
+     "recomendado": true
+    },
+    {
+     "posicao": 10,
+     "nome": "Decolar",
+     "preco": 2210,
+     "recomendado": false
+    },
+    {
+     "posicao": 11,
+     "nome": "ViajaNet",
+     "preco": 2210,
+     "recomendado": false
+    }
+   ],
+   "zupper_vitrine": 1815,
+   "zupper_posicao": 4,
+   "zupper_gap_1o": 717,
+   "zupper_recomendado": false,
+   "url_busca": "https://www.skyscanner.com.br/transporte/voos/gru/ssa/261002/261005/?adultsv2=1&cabinclass=economy&rtn=1",
+   "status": "ok",
+   "flag_auditoria": null,
+   "metodo": "chrome_local"
+  },
+  {
+   "coletado_em": "2026-09-04T22:32:25.978470-03:00",
+   "rota": "SSA-GRU",
+   "origem": "SSA",
+   "destino": "GRU",
+   "data_ida": "2026-10-02",
+   "data_volta": "2026-10-05",
+   "tipo_itinerario": "round_trip",
+   "antecedencia_dias": 28,
+   "preco_mais_barato": 1098,
+   "preco_direto": 1098,
+   "por_companhia": {
+    "GOL": 1098,
+    "LATAM": 1674,
+    "Azul": 1364,
+    "Multi": 1370
+   },
+   "vendedores": [
+    {
+     "posicao": 1,
+     "nome": "Vai de Promo",
+     "preco": 1098,
+     "recomendado": true
+    },
+    {
+     "posicao": 2,
+     "nome": "123milhas",
+     "preco": 1186,
+     "recomendado": true
+    },
+    {
+     "posicao": 3,
+     "nome": "MaxMilhas",
+     "preco": 1228,
+     "recomendado": true
+    },
+    {
+     "posicao": 4,
+     "nome": "Zupper",
+     "preco": 1815,
+     "recomendado": false
+    },
+    {
+     "posicao": 5,
+     "nome": "GOL Linhas Aéreas",
+     "preco": 2024,
+     "recomendado": false
+    },
+    {
+     "posicao": 6,
+     "nome": "CVC Viagens",
+     "preco": 2087,
+     "recomendado": false
+    },
+    {
+     "posicao": 7,
+     "nome": "Booking.com",
+     "preco": 2110,
+     "recomendado": true
+    },
+    {
+     "posicao": 8,
+     "nome": "Trip.com",
+     "preco": 2173,
+     "recomendado": true
+    },
+    {
+     "posicao": 9,
+     "nome": "Decolar",
+     "preco": 2210,
+     "recomendado": false
+    },
+    {
+     "posicao": 10,
+     "nome": "ViajaNet",
+     "preco": 2210,
+     "recomendado": false
+    },
+    {
+     "posicao": 11,
+     "nome": "Kiwi.com",
+     "preco": 3350,
+     "recomendado": false
+    }
+   ],
+   "zupper_vitrine": 1815,
+   "zupper_posicao": 4,
+   "zupper_gap_1o": 717,
+   "zupper_recomendado": false,
+   "url_busca": "https://www.skyscanner.com.br/transporte/voos/ssa/gru/261002/261005/?adultsv2=1&cabinclass=economy&rtn=1",
+   "status": "ok",
+   "flag_auditoria": null,
+   "metodo": "chrome_local"
+  },
+  {
+   "coletado_em": "2026-09-04T22:32:25.978470-03:00",
+   "rota": "GIG-SSA",
+   "origem": "GIG",
+   "destino": "SSA",
+   "data_ida": "2026-10-02",
+   "data_volta": "2026-10-05",
+   "tipo_itinerario": "round_trip",
+   "antecedencia_dias": 28,
+   "preco_mais_barato": 1094,
+   "preco_direto": 1539,
+   "por_companhia": {
+    "GOL": 1539,
+    "LATAM": 1565,
+    "Azul": 1094,
+    "Multi": 1283
+   },
+   "vendedores": [
+    {
+     "posicao": 1,
+     "nome": "Zupper",
+     "preco": 1094,
+     "recomendado": false
+    },
+    {
+     "posicao": 2,
+     "nome": "Trip.com",
+     "preco": 1154,
+     "recomendado": true
+    },
+    {
+     "posicao": 3,
+     "nome": "Booking.com",
+     "preco": 1177,
+     "recomendado": true
+    },
+    {
+     "posicao": 4,
+     "nome": "Decolar",
+     "preco": 1187,
+     "recomendado": false
+    },
+    {
+     "posicao": 5,
+     "nome": "ViajaNet",
+     "preco": 1187,
+     "recomendado": false
+    },
+    {
+     "posicao": 6,
+     "nome": "Mytrip",
+     "preco": 1195,
+     "recomendado": false
+    },
+    {
+     "posicao": 7,
+     "nome": "123milhas",
+     "preco": 1217,
+     "recomendado": true
+    },
+    {
+     "posicao": 8,
+     "nome": "MaxMilhas",
+     "preco": 1217,
+     "recomendado": true
+    },
+    {
+     "posicao": 9,
+     "nome": "CVC Viagens",
+     "preco": 1373,
+     "recomendado": false
+    },
+    {
+     "posicao": 10,
+     "nome": "Azul",
+     "preco": 1453,
+     "recomendado": false
+    },
+    {
+     "posicao": 11,
+     "nome": "Vai de Promo",
+     "preco": 2023,
+     "recomendado": true
+    },
+    {
+     "posicao": 12,
+     "nome": "Gotogate",
+     "preco": 2566,
+     "recomendado": false
+    }
+   ],
+   "zupper_vitrine": 1094,
+   "zupper_posicao": 1,
+   "zupper_gap_1o": 0,
+   "zupper_recomendado": false,
+   "url_busca": "https://www.skyscanner.com.br/transporte/voos/gig/ssa/261002/261005/?adultsv2=1&cabinclass=economy&rtn=1",
+   "status": "ok",
+   "flag_auditoria": null,
+   "metodo": "chrome_local"
+  },
+  {
+   "coletado_em": "2026-09-04T22:32:25.978470-03:00",
+   "rota": "SSA-GIG",
+   "origem": "SSA",
+   "destino": "GIG",
+   "data_ida": "2026-10-02",
+   "data_volta": "2026-10-05",
+   "tipo_itinerario": "round_trip",
+   "antecedencia_dias": 28,
+   "preco_mais_barato": 942,
+   "preco_direto": 942,
+   "por_companhia": {
+    "GOL": 942,
+    "LATAM": 1519,
+    "Azul": 1094,
+    "Multi": 1062
+   },
+   "vendedores": [
+    {
+     "posicao": 1,
+     "nome": "Vai de Promo",
+     "preco": 942,
+     "recomendado": true
+    },
+    {
+     "posicao": 2,
+     "nome": "123milhas",
+     "preco": 1017,
+     "recomendado": true
+    },
+    {
+     "posicao": 3,
+     "nome": "MaxMilhas",
+     "preco": 1052,
+     "recomendado": true
+    },
+    {
+     "posicao": 4,
+     "nome": "Zupper",
+     "preco": 1536,
+     "recomendado": false
+    },
+    {
+     "posicao": 5,
+     "nome": "Trip.com",
+     "preco": 1647,
+     "recomendado": true
+    },
+    {
+     "posicao": 6,
+     "nome": "GOL Linhas Aéreas",
+     "preco": 1710,
+     "recomendado": false
+    },
+    {
+     "posicao": 7,
+     "nome": "CVC Viagens",
+     "preco": 1763,
+     "recomendado": false
+    },
+    {
+     "posicao": 8,
+     "nome": "Booking.com",
+     "preco": 1800,
+     "recomendado": true
+    },
+    {
+     "posicao": 9,
+     "nome": "Decolar",
+     "preco": 1866,
+     "recomendado": false
+    },
+    {
+     "posicao": 10,
+     "nome": "ViajaNet",
+     "preco": 1866,
+     "recomendado": false
+    },
+    {
+     "posicao": 11,
+     "nome": "Kiwi.com",
+     "preco": 2786,
+     "recomendado": false
+    }
+   ],
+   "zupper_vitrine": 1536,
+   "zupper_posicao": 4,
+   "zupper_gap_1o": 594,
+   "zupper_recomendado": false,
+   "url_busca": "https://www.skyscanner.com.br/transporte/voos/ssa/gig/261002/261005/?adultsv2=1&cabinclass=economy&rtn=1",
+   "status": "ok",
+   "flag_auditoria": null,
+   "metodo": "chrome_local"
+  },
+  {
+   "coletado_em": "2026-09-04T22:32:25.978470-03:00",
+   "rota": "REC-CGH",
+   "origem": "REC",
+   "destino": "CGH",
+   "data_ida": "2026-10-02",
+   "data_volta": "2026-10-05",
+   "tipo_itinerario": "round_trip",
+   "antecedencia_dias": 28,
+   "preco_mais_barato": 1098,
+   "preco_direto": 1098,
+   "por_companhia": {
+    "GOL": 1352,
+    "LATAM": 1213,
+    "Azul": 1098,
+    "Multi": 1151
+   },
+   "vendedores": [
+    {
+     "posicao": 1,
+     "nome": "Zupper",
+     "preco": 1098,
+     "recomendado": false
+    },
+    {
+     "posicao": 2,
+     "nome": "Trip.com",
+     "preco": 1169,
+     "recomendado": true
+    },
+    {
+     "posicao": 3,
+     "nome": "Vai de Promo",
+     "preco": 1176,
+     "recomendado": true
+    },
+    {
+     "posicao": 4,
+     "nome": "Booking.com",
+     "preco": 1179,
+     "recomendado": true
+    },
+    {
+     "posicao": 5,
+     "nome": "Decolar",
+     "preco": 1189,
+     "recomendado": false
+    },
+    {
+     "posicao": 6,
+     "nome": "ViajaNet",
+     "preco": 1189,
+     "recomendado": false
+    },
+    {
+     "posicao": 7,
+     "nome": "Mytrip",
+     "preco": 1197,
+     "recomendado": false
+    },
+    {
+     "posicao": 8,
+     "nome": "123milhas",
+     "preco": 1218,
+     "recomendado": true
+    },
+    {
+     "posicao": 9,
+     "nome": "MaxMilhas",
+     "preco": 1218,
+     "recomendado": true
+    },
+    {
+     "posicao": 10,
+     "nome": "Azul",
+     "preco": 1357,
+     "recomendado": false
+    },
+    {
+     "posicao": 11,
+     "nome": "CVC Viagens",
+     "preco": 1369,
+     "recomendado": false
+    }
+   ],
+   "zupper_vitrine": 1098,
+   "zupper_posicao": 1,
+   "zupper_gap_1o": 0,
+   "zupper_recomendado": false,
+   "url_busca": "https://www.skyscanner.com.br/transporte/voos/rec/cgh/261002/261005/?adultsv2=1&cabinclass=economy&rtn=1",
+   "status": "ok",
+   "flag_auditoria": null,
+   "metodo": "chrome_local"
+  },
+  {
+   "coletado_em": "2026-09-04T22:32:25.978470-03:00",
+   "rota": "CGH-REC",
+   "origem": "CGH",
+   "destino": "REC",
+   "data_ida": "2026-10-02",
+   "data_volta": "2026-10-05",
+   "tipo_itinerario": "round_trip",
+   "antecedencia_dias": 28,
+   "preco_mais_barato": 1098,
+   "preco_direto": 1098,
+   "por_companhia": {
+    "GOL": 1105,
+    "LATAM": 1229,
+    "Azul": 1098,
+    "Multi": 1135
+   },
+   "vendedores": [
+    {
+     "posicao": 1,
+     "nome": "Zupper",
+     "preco": 1098,
+     "recomendado": false
+    },
+    {
+     "posicao": 2,
+     "nome": "Trip.com",
+     "preco": 1167,
+     "recomendado": true
+    },
+    {
+     "posicao": 3,
+     "nome": "Vai de Promo",
+     "preco": 1176,
+     "recomendado": true
+    },
+    {
+     "posicao": 4,
+     "nome": "Booking.com",
+     "preco": 1181,
+     "recomendado": true
+    },
+    {
+     "posicao": 5,
+     "nome": "Decolar",
+     "preco": 1189,
+     "recomendado": false
+    },
+    {
+     "posicao": 6,
+     "nome": "ViajaNet",
+     "preco": 1189,
+     "recomendado": false
+    },
+    {
+     "posicao": 7,
+     "nome": "123milhas",
+     "preco": 1218,
+     "recomendado": true
+    },
+    {
+     "posicao": 8,
+     "nome": "MaxMilhas",
+     "preco": 1218,
+     "recomendado": true
+    },
+    {
+     "posicao": 9,
+     "nome": "Expedia",
+     "preco": 1327,
+     "recomendado": false
+    },
+    {
+     "posicao": 10,
+     "nome": "Azul",
+     "preco": 1357,
+     "recomendado": false
+    },
+    {
+     "posicao": 11,
+     "nome": "CVC Viagens",
+     "preco": 1369,
+     "recomendado": false
+    }
+   ],
+   "zupper_vitrine": 1098,
+   "zupper_posicao": 1,
+   "zupper_gap_1o": 0,
+   "zupper_recomendado": false,
+   "url_busca": "https://www.skyscanner.com.br/transporte/voos/cgh/rec/261002/261005/?adultsv2=1&cabinclass=economy&rtn=1",
+   "status": "ok",
+   "flag_auditoria": null,
+   "metodo": "chrome_local"
+  },
+  {
+   "coletado_em": "2026-09-04T22:32:25.978470-03:00",
+   "rota": "GRU-JDO",
+   "origem": "GRU",
+   "destino": "JDO",
+   "data_ida": "2026-10-02",
+   "data_volta": "2026-10-05",
+   "tipo_itinerario": "round_trip",
+   "antecedencia_dias": 28,
+   "preco_mais_barato": 944,
+   "preco_direto": 944,
+   "por_companhia": {
+    "GOL": 944,
+    "LATAM": 1286,
+    "Azul": 1168,
+    "Multi": 1016
+   },
+   "vendedores": [
+    {
+     "posicao": 1,
+     "nome": "Vai de Promo",
+     "preco": 944,
+     "recomendado": true
+    },
+    {
+     "posicao": 2,
+     "nome": "123milhas",
+     "preco": 979,
+     "recomendado": true
+    },
+    {
+     "posicao": 3,
+     "nome": "Zupper",
+     "preco": 981,
+     "recomendado": false
+    },
+    {
+     "posicao": 4,
+     "nome": "MaxMilhas",
+     "preco": 1005,
+     "recomendado": true
+    },
+    {
+     "posicao": 5,
+     "nome": "GOL Linhas Aéreas",
+     "preco": 1089,
+     "recomendado": false
+    },
+    {
+     "posicao": 6,
+     "nome": "Trip.com",
+     "preco": 1114,
+     "recomendado": true
+    },
+    {
+     "posicao": 7,
+     "nome": "CVC Viagens",
+     "preco": 1122,
+     "recomendado": false
+    },
+    {
+     "posicao": 8,
+     "nome": "Booking.com",
+     "preco": 1148,
+     "recomendado": true
+    },
+    {
+     "posicao": 9,
+     "nome": "Decolar",
+     "preco": 1186,
+     "recomendado": false
+    },
+    {
+     "posicao": 10,
+     "nome": "ViajaNet",
+     "preco": 1186,
+     "recomendado": false
+    },
+    {
+     "posicao": 11,
+     "nome": "Kiwi.com",
+     "preco": 2619,
+     "recomendado": false
+    }
+   ],
+   "zupper_vitrine": 981,
+   "zupper_posicao": 3,
+   "zupper_gap_1o": 37,
+   "zupper_recomendado": false,
+   "url_busca": "https://www.skyscanner.com.br/transporte/voos/gru/jdo/261002/261005/?adultsv2=1&cabinclass=economy&rtn=1",
+   "status": "ok",
+   "flag_auditoria": null,
+   "metodo": "chrome_local"
+  },
+  {
+   "coletado_em": "2026-09-04T22:32:25.978470-03:00",
+   "rota": "FOR-GRU",
+   "origem": "FOR",
+   "destino": "GRU",
+   "data_ida": "2026-10-02",
+   "data_volta": "2026-10-05",
+   "tipo_itinerario": "round_trip",
+   "antecedencia_dias": 28,
+   "preco_mais_barato": 1254,
+   "preco_direto": 1392,
+   "por_companhia": {
+    "GOL": 1392,
+    "LATAM": 1254,
+    "Azul": 1400,
+    "Multi": 1384
+   },
+   "vendedores": [
+    {
+     "posicao": 1,
+     "nome": "Kissandfly",
+     "preco": 1254,
+     "recomendado": false
+    },
+    {
+     "posicao": 2,
+     "nome": "Expedia",
+     "preco": 4764,
+     "recomendado": false
+    },
+    {
+     "posicao": 3,
+     "nome": "Booking.com",
+     "preco": 5472,
+     "recomendado": true
+    }
+   ],
+   "zupper_vitrine": null,
+   "zupper_posicao": null,
+   "zupper_gap_1o": null,
+   "zupper_recomendado": null,
+   "url_busca": "https://www.skyscanner.com.br/transporte/voos/for/gru/261002/261005/?adultsv2=1&cabinclass=economy&rtn=1",
+   "status": "ok",
+   "flag_auditoria": null,
+   "metodo": "chrome_local"
   }
  ]
 }
